@@ -17,6 +17,12 @@ Vue.component("simple_footer_component_1722845285", {
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         Stay ahead of the curve with EtherScan. Our cutting-edge platform provides up-to-the-second analysis of new Ethereum transactions, giving you a decisive competitive edge. Powered by advanced algorithms and a robust blockchain integration, we deliver actionable insights to power your trading strategies and investment decisions.
                     </div>
+                    </div>
+                </div>
+                <div class="flex justify-center mt-4">
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                        Hello World
+                    </button>
                 </div>
             </div>
         </footer> 
